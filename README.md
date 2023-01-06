@@ -49,7 +49,7 @@ Details about monetization of the project will follow (and will be decided toget
 We would like to get your involvement! 
 
 - Show your support by adding yourself to the [contributors](https://github.com/OpenDolphin/introduction/issues/3) list
-- Join our [Slack](https://join.slack.com/t/open-dolphin/shared_invite/zt-1kf9nf5ao-_hMCsTsqhau7vGUTbJwXng) instance and talk with us
+- Join our [Slack](https://join.slack.com/t/open-dolphin/shared_invite/zt-1moz005y9-x0LwnR7Dlvwlmi1jOrkFug) instance and talk with us
 - Use the [Discussions](https://github.com/OpenDolphin/introduction/discussions) tab to introduce yourself or get acquainted with the project.
 - See the [Roadmap](https://github.com/orgs/OpenDolphin/projects/1)
 
